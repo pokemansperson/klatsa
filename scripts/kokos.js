@@ -251,3 +251,4 @@ function updateGameArea() {
             myGameArea.pause = true;
         }
 }
+}
